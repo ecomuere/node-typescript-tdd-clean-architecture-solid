@@ -1,0 +1,3 @@
+## Tools
+
+- Conventional commits

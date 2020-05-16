@@ -1,0 +1,7 @@
+{
+  "name": "typescript-tdd-clean-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ivan Llorente <ivan@whoomi.com>",
+  "license": "MIT"
+}
