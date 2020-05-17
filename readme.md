@@ -10,3 +10,4 @@
 - eslint-config-standard-with-typescript
 - husky
 - lint staged
+- jest
